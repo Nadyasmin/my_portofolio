@@ -14,7 +14,7 @@ Hallo! This portofolio contains selected projects related to data analysis, stat
 
 | URL | Associated | Tools | Description |
 |------------|------------------|-------|------------------|
-| [Prediksi Keputusan Mahasiswa](#my_portofolio/student-decision-ml) | Kompetisi SSF (Kelompok) | Python, pandas, scikit-learn | Membangun model machine learning berbasis supervised learning untuk memprediksi keputusan mahasiswa menyelesaikan studi berdasarkan faktor akademik dan latar belakang. Proyek preprocessing data, pemodelan klasifikasi, dan evaluasi performa model. |
+| [Prediksi Keputusan Mahasiswa](student-decisision-ml) | Kompetisi SSF (Kelompok) | Python, pandas, scikit-learn | Membangun model machine learning berbasis supervised learning untuk memprediksi keputusan mahasiswa menyelesaikan studi berdasarkan faktor akademik dan latar belakang. Proyek preprocessing data, pemodelan klasifikasi, dan evaluasi performa model. |
 
 ---
 
