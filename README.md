@@ -14,8 +14,8 @@ Hallo! This portofolio contains selected projects related to data analysis, stat
 
 | URL | Associated | Tools | Description |
 |------------|------------------|-------|------------------|
-| [Prediksi Status Mahasiswa](student-status-prediction) | Kompetisi SSF (Kelompok) | Python (pandas, scikit-learn, matplotlib) | Membangun model machine learning berbasis supervised learning untuk memprediksi keputusan mahasiswa menyelesaikan studi berdasarkan faktor akademik, sosial, dan ekonomi. Project ini termasuk preprocessing data, pemodelan klasifikasi, evaluasi performa model, dan analisis kepentingan faktor. |
-| [Prediksi Keputusan Mahasiswa](proverty-in-west-java) | Kompetisi GAMMAFEST (Individu) | R (plm, spdep, ggplot2, GWmodel) | Menganalisis pola kemiskinan di Jawa Barat menggunakan data panel dan metode Geographically Weighted Panel Regression (GWPR) untuk menangkap variasi hubungan antar variabel secara spasial dan temporal. Hasil analisis membandingkan model regresi panel global dan GWPR guna memperoleh wawasan mengenai perbedaan karakteristik kemiskinan antar wilayah. |
+| [Prediksi Status Mahasiswa](student_status_prediction) | Kompetisi SSF (Kelompok) | Python (pandas, scikit-learn, matplotlib) | Membangun model machine learning berbasis supervised learning untuk memprediksi keputusan mahasiswa menyelesaikan studi berdasarkan faktor akademik, sosial, dan ekonomi. Project ini termasuk preprocessing data, pemodelan klasifikasi, evaluasi performa model, dan analisis kepentingan faktor. |
+| [Analisis Kemiskinan Jawa Barat](proverty_in_west_java) | Kompetisi GAMMAFEST (Individu) | R (plm, spdep, ggplot2, GWmodel) | Menganalisis pola kemiskinan di Jawa Barat menggunakan data panel dan metode Geographically Weighted Panel Regression (GWPR) untuk menangkap variasi hubungan antar variabel secara spasial dan temporal. Hasil analisis membandingkan model regresi panel global dan GWPR guna memperoleh wawasan mengenai perbedaan karakteristik kemiskinan antar wilayah. |
 
 ---
 
