@@ -1,6 +1,6 @@
 # Data Analytics Portolio
 
-Hallo! This portofolio contains selected projects related to data analysis, statistical modeling, and visualization.
+Halo! Portofolio ini berisi kumpulan project yang berkaitan dengan data analysis, statistical modeling, dan data visualization, baik dalam konteks akademik maupun kompetisi.
 
 ---
 
@@ -12,10 +12,10 @@ Hallo! This portofolio contains selected projects related to data analysis, stat
 
 ## Data Anlysis & Modeling
 
-| URL | Associated | Tools | Description |
+| URL | Context | Tools | Description |
 |------------|------------------|-------|------------------|
-| [Prediksi Status Mahasiswa](student_status_prediction) | Kompetisi SSF (Kelompok) | Python (pandas, scikit-learn, matplotlib) | Membangun model machine learning berbasis supervised learning untuk memprediksi keputusan mahasiswa menyelesaikan studi berdasarkan faktor akademik, sosial, dan ekonomi. Project ini termasuk preprocessing data, pemodelan klasifikasi, evaluasi performa model, dan analisis kepentingan faktor. |
-| [Analisis Kemiskinan Jawa Barat](proverty_in_west_java) | Kompetisi GAMMAFEST (Individu) | R (plm, spdep, ggplot2, GWmodel) | Menganalisis pola kemiskinan di Jawa Barat menggunakan data panel dan metode Geographically Weighted Panel Regression (GWPR) untuk menangkap variasi hubungan antar variabel secara spasial dan temporal. Hasil analisis membandingkan model regresi panel global dan GWPR guna memperoleh wawasan mengenai perbedaan karakteristik kemiskinan antar wilayah. |
+| [Student Status Prediction](student_status_prediction) | Kompetisi SSF (Kelompok) | Python (pandas, scikit-learn, matplotlib) | Membangun model machine learning berbasis supervised classification untuk memprediksi status mahasiswa (Dropout, Enrolled, Graduated) berdasarkan faktor akademik, sosial, dan ekonomi. Analisis mencakup preprocessing data, evaluasi model, dan feature importance. |
+| [Poverty Analysis in West Java](poverty_analysis_in_west_java) | Kompetisi GAMMAFEST (Individu) | R (plm, spdep, ggplot2, GWmodel) | Menganalisis pola kemiskinan di Jawa Barat menggunakan data panel global dan metode Geographically Weighted Panel Regression (GWPR) untuk menangkap heterogenitas spasial dan temporal. Hasil analisis membandingkan karakteristik kemiskinan . |
 
 ---
 
@@ -23,9 +23,9 @@ Hallo! This portofolio contains selected projects related to data analysis, stat
 
 | URL | Associated | Tools | Description |
 |------------|------------------|-------|------------------|
-| [Dashboard Kondisi Sosial Ekonomi](https://its.id/m/DashboardFPKotaBekasi) | Proyek Akademik (Kelompok) | Power BI, Microsoft Excel | Dashboard visualisasi kondisi sosial ekonomi Kota Bekasi yang menyajikan indikator kependudukan, ketenagakerjaan, dan kesejahteraan masyarakat. Dashboard ini membantu untuk memantau perkembangan kesejahteraan masyarakat dari waktu ke waktu serta mendukung evaluasi kebijakan berbasis data. |
-| [Dashboard Analisis Logistik Rantai Pasok](https://its.id/m/DashboardPowerBI105) | Proyek Akademik (Mandiri)| Power BI, Microsoft Excel | Mengembangkan dashboard supply chain untuk menganalisis performa distribusi, transaksi, dan profit, serta mengidentifikasi potensi inefisiensi logistik dan keterlambatan pengiriman. |
+| [Logistics Supply Chain Dashboard](https://its.id/m/DashboardPowerBI105) | Proyek Akademik (Mandiri)| Power BI | Dashboard supply chain untuk menganalisis performa distribusi, transaksi, dan profit, serta mengidentifikasi potensi inefisiensi logistik dan keterlambatan pengiriman. |
+| [Socio-Economic Dashboard](https://its.id/m/DashboardFPKotaBekasi) | Proyek Akademik (Kelompok) | Power BI | Dashboard visualisasi kondisi sosial ekonomi Kota Bekasi tahun 2018-2022 yang menyajikan indikator kependudukan, ketenagakerjaan, dan kesejahteraan masyarakat untuk pemantauan dan evaluasi berbasis data. |
 
 ---
 
-Portofolio ini akan terus diperbarui seiring dengan pengembangan proyek dan pengalaman baru.
+Portofolio ini akan terus saya perbarui seiring dengan pengembangan proyek dan pengalaman baru.
